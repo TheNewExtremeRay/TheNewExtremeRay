@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TheNewExtremeRay
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning powershell scripting
-- 💞️ I’m looking to collaborate on powershell game developing
-- 📫 How to reach me: SlayingTractionsTeam@gmail.com or look at slayingtractions.unaux.com
+- 🌱 I’m currently learning electronics
+- 💞️ I’m looking to collaborate on my future projects
+- 📫 How to reach me: theextremeray@gmail.com or +212649435875
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i am actually really interested in arduino stuff
 
