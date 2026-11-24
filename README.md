@@ -7,7 +7,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+ideas+into+software.;Exploring+code%2C+systems+%26+electronics.;Creating+under+FractalLabs.)
 
 [![GitHub](https://img.shields.io/badge/GitHub-TheNewExtremeRay-181717?style=for-the-badge&logo=github)](https://github.com/TheNewExtremeRay)
-[![Website](https://img.shields.io/badge/FractalLabs-Website-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fractallabs.online)
+[![Website](https://img.shields.io/badge/FractalLabs-Website-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://extremeteam.online)
 
 </div>
 
